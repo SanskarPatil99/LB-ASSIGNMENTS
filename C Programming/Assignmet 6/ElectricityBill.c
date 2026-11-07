@@ -29,7 +29,7 @@ int main()
 {
     int iUnits = 0;
 
-    printf("Enter electricity units: ");
+    printf("Enter Consumed units: ");
     scanf("%d", &iUnits);
 
     CalculateElectricityBill(iUnits);
